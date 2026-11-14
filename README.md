@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**saymasworna/saymasworna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+🤖 Aspiring AI / Machine Learning Engineer  
+💻 Learning Python, Machine Learning & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- NumPy and Pandas
+- Data Analysis
+- Machine Learning
+
+## Programming Languages
+- C
+- Java
+- Python (Learning)
+
+## Goals
+- Build AI and Machine Learning projects
+- Improve my problem-solving skills
+- Create real-world AI applications
+
+## Connect With Me
+- GitHub: https://github.com/sayma.sworna
