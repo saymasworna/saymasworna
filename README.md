@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sayma Islam Sworna 👋
 
 🎓 Computer Science Student  
 🤖 Aspiring AI / Machine Learning Engineer  
